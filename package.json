@@ -1,6 +1,6 @@
 {
   "name": "@skarab/result",
-  "description": "My skaffolded project",
+  "description": "Provides a robust and type-safe way to handle success and failure outcomes in TypeScript, utilizing symbolic indexing for clear result differentiation.",
   "version": "0.0.0-development",
   "license": "MIT",
   "author": {
