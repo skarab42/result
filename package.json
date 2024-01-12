@@ -14,9 +14,9 @@
   "type": "module",
   "module": "./output/index.js",
   "types": "./output/index.d.ts",
-  "private": true,
+  "private": false,
   "publishConfig": {
-    "access": "restricted"
+    "access": "public"
   },
   "files": [
     "output"
